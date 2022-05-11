@@ -2,6 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/juleznft/solana-nft-tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+[Privacy Policy] (https://juleznft.github.io/solana-nft-tracker/privacy_policy.md)
+[Terms Of Service] (https://juleznft.github.io/solana-nft-tracker/)
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
