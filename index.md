@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/juleznft/solana-nft-tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 [Privacy Policy](https://juleznft.github.io/solana-nft-tracker/privacy_policy.md)
-[Terms Of Service](https://juleznft.github.io/solana-nft-tracker/)
+[Terms Of Service](https://juleznft.github.io/solana-nft-tracker/terms_of_service.md)
 
 
 
