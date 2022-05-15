@@ -1,53 +1,31 @@
-## Solana NFT-Tracker
+![icon120x120](https://user-images.githubusercontent.com/105373021/168476940-9c360be3-fa01-4293-9140-f27178f01d33.png)
+
+# Google OAuth2 Homepage
+
+**Accurately represents your app's identity:** The NFT-Tracker App is an AddOn for Google Sheet, where you can track your Solana NFTs, receive alerts if the NFT is at a price-level which could be set in the sheet. 
+Furthermore it is possible that the current floorprices of the NFT-Collection is refreshed in a specified intervall, which can be set in the settings.
+
+**What will this app do with user data?** The App does nothing with the user data. If a email-address is set in the settings for price alerts it will send an email to this address. Furthermore it asks for permissions to connect to external requests which is needed for the Solana-Prices and to receive Data from MagicEden (Royalties and Floorprice) to determine the value of the portfolio.
+Data is not stored. All Data is in the sheet which is stored in the Drive of the own user.
+
+**How does this app enhance user functionality?** This App reads data from NFT-Collections from Magic-Eden and Solana-Prices in EUR and USD. 
+This is needed for calculation of profit and/or loss of each collection to build a sum of the portfolio.
+Furthermore it is possible to set some price-targets (e.g. Take Profit or Stop-Loss) if the option is set the user will receive an notification via email to the set adress. Sender is the own email-address where the app is used.
+
+**Link to Privacy Policy:** [Privacy Policy](/privacy_policy.md)
+
+**Describe the content, context, or connection to the app:** The App is an Add-On for Google Sheets. It sets data to different sheets / cells. The best user-experience is, if the add-on is used within a template. The Intention is to give the user a overview of all the NFTs of Solana which is in the portfolio and to give some notifications.
 
 
-English Version below:
-
-Hey! 
-
-Ich habe für meine Solana-NFTs ein Google-Sheet als Template gebaut, und dieses mit Skripten ergänzt.
-Dieses AddOn kann heruntergeladen und das Template verwendet werden.
-
-Das Sheet ermöglicht es Dir, deine Solana-NFTs zu tracken.
-
-Dabei können einzelne Käufe und Verkäufe eingetragen werden, es berechnet sich daraus dann anhand der Tageskurse der Gewinn bzw. Verlust der Trades, welche für die Steuer relevant sind.
-
-Zusätzlich gibt es ein Übersichtsblatt, auf dem das Portfolio getrackt werden kann. Man sieht dort seinen Durchschnitts-Einkaufspreis, den aktuellen Floorprice und den gegenwärtigen laufenden Gewinn bzw. Verlust. 
-
-Desweiteren ist es auch möglich, sich Preisalarme zu stellen, welche dann an die hinterlegte Email gesendet werden können.
-
-Das Sheet ist sehr fein einstellbar, es kann eingestellt werden, in welchen Intervallen folgende Aktionen durchgeführt werden:
-- Floorprice aktualisieren
-- Preise prüfen und ggf. Preisalarme als Email versenden
-- Solana-Preise aktualisieren
-- Verlauf des Portfolios und der einzelnen Werte speichern für spätere Auswertungen
-
-Um die Funktionen voll nutzen zu können, müssen die eigene Mail-Adresse hinterlegt werden, um die Preisalarme versenden zu können. Desweiteren müssen die Transaktionen und HODLs im Portfolio eingetragen werden.
-Die Datenbasis hierzu ist Magic-Eden. Hier muss die Collection ID im Blatt "Collections" hinterlegt werden.
+## Google OAuth2 Limited Use Disclosure 
+The App askes for some restricted scopes, that are needed to get data from external resources (in that case from YahooFinance and MagicEden). 
+Furthermore to send Emails in the own name, which is needed to send the price notifications. 
+Also for the automatic update of the floorprices and for sending notifcations even if the sheet is not opened it asks for the scope to run in the background. 
+At last it asks for the scope to edit the sheets that are stored in the account of the user to set the data to the sheet. 
+The Add-Ons use of information received from Google APIs are adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy) including the Limited use requirements.
 
 
-**************************
 
-
-Hey.
-
-I built a Google sheet as a template for my Solana NFTs, and added scripts to it. You can download this AddOn and use the template.
-
-The sheet allows you to track your Solana NFTs.
-
-Individual purchases and sales can be entered, it then calculates the profit or loss of the trades, which are relevant for the tax, based on the daily rates.
-
-In addition, there is an overview sheet on which the portfolio can be tracked. You can see your average purchase price, the current floor price and the current profit or loss.
-
-Furthermore, it is also possible to set price alerts, which can then be sent to the stored email.
-
-The sheet is very fine adjustable, it can be set in which intervals the following actions are performed:
-
-Update floorprice
-Check prices and send price alerts as email if necessary
-Update Solana prices
-Save the history of the portfolio and the individual values for later evaluations
-In order to be able to use the functions fully, the own mail address must be deposited, in order to be able to send the price alarms. Furthermore, the transactions and HODLs must be entered in the portfolio. The database for this is Magic-Eden. Here the Collection ID must be deposited in the sheet "Collections".
 
 
 
@@ -64,6 +42,3 @@ In order to be able to use the functions fully, the own mail address must be dep
 [Privacy Policy](/privacy_policy.md)
 
 [Terms Of Service](/terms_of_service.md)
-
-
-
