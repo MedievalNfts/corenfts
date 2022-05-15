@@ -23,7 +23,7 @@ The App askes for some restricted scopes, that are needed to get data from exter
 Furthermore to send Emails in the own name, which is needed to send the price notifications. 
 Also for the automatic update of the floorprices and for sending notifcations even if the sheet is not opened it asks for the scope to run in the background. 
 At last it asks for the scope to edit the sheets that are stored in the account of the user to set the data to the sheet. 
-The Add-Ons use of information received from Google APIs are adhere to the [Google API Services User Data Policy]https://developers.google.com/terms/api-services-user-data-policy including the Limited use requirements.
+The Add-Ons use of information received from Google APIs are adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy) including the Limited use requirements.
 
 
 
