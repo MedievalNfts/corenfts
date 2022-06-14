@@ -1,5 +1,5 @@
 
-![icon120x120](https://user-images.githubusercontent.com/105373021/168476940-9c360be3-fa01-4293-9140-f27178f01d33.png)
+![icon120x120](https://github.com/MedievalNfts/MedievalNfts.github.io/blob/main/logo512.png))
 
 # Google OAuth2 Homepage
 
