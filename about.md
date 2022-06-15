@@ -14,11 +14,11 @@ Furthermore it is possible to set some price-targets (e.g. Take Profit or Stop-L
 
 **Link to Privacy Policy:** [Privacy Policy](/privacy_policy.md)
 
-**Describe the content, context, or connection to the app:** The App is an Add-On for Google Sheets. It sets data to different sheets / cells. The best user-experience is, if the add-on is used within a template. The Intention is to give the user a overview of all the NFTs of Solana which is in the portfolio and to give some notifications.
+**Describe the content, context, or connection to the app:** The CORE App is an Add-On for Google Sheets. It sets data to different sheets / cells. The best user-experience is, if the add-on is used within a template. The Intention is to give the user a overview of all the NFTs of Polygon which is in the portfolio and to give some notifications.
 
 
-## Google OAuth2 Limited Use Disclosure 
-The App askes for some restricted scopes, that are needed to get data from external resources (in that case from YahooFinance and MagicEden). 
+## CORE®  Limited Use Disclosure 
+The CORE App askes for some restricted scopes, that are needed to get data from external resources (in that case from YahooFinance and Opensea). 
 Furthermore to send Emails in the own name, which is needed to send the price notifications. 
 Also for the automatic update of the floorprices and for sending notifcations even if the sheet is not opened it asks for the scope to run in the background. 
 At last it asks for the scope to edit the sheets that are stored in the account of the user to set the data to the sheet. 
