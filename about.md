@@ -1,15 +1,14 @@
 
 ![icon120x120](https://github.com/MedievalNfts/MedievalNfts.github.io/blob/main/logo512.png))
 
-# Google OAuth2 Homepage
+# CORE
 
-**Accurately represents your app's identity:** The NFT-Tracker App is an AddOn for Google Sheet, where you can track your Solana NFTs, receive alerts if the NFT is at a price-level which could be set in the sheet. 
-Furthermore it is possible that the current floorprices of the NFT-Collection is refreshed in a specified intervall, which can be set in the settings.
+**By CORE:** As implied deliberately by the name, Core can be a noun, verb, or adjective, but is most often used as a noun to refer to the central or most important part of something (“the core of the issue,” “the Earth’s core”) or to the usually inedible central part of a fruit (“an apple core”). And with the CORE application, which will be available on both the apple store and the google play store. The CORE application is built to serve as the bridge between Art and the evolved Digital services by serving as a platform where artists, digital artist's, cookectors and Cryptocurrency enthusiasts can access dapps beneficial to the specific service required.
 
-**What will this app do with user data?** The App does nothing with the user data. If a email-address is set in the settings for price alerts it will send an email to this address. Furthermore it asks for permissions to connect to external requests which is needed for the Solana-Prices and to receive Data from MagicEden (Royalties and Floorprice) to determine the value of the portfolio.
+**What will this app do with user data?** The CORE App does nothing with the user data. If an email-address is set in the settings for price alerts it will send an email to this address. Furthermore it asks for permissions to connect to external requests which is needed for the Polygon-Prices and to receive Data from Opensea (Royalties and Floorprices) to determine the value of the portfolio.
 Data is not stored. All Data is in the sheet which is stored in the Drive of the own user.
 
-**How does this app enhance user functionality?** This App reads data from NFT-Collections from Magic-Eden and Solana-Prices in EUR and USD. 
+**How does this app enhance user functionality?** The CORE App reads data from your linked Medieval NFT-Collections from Opensea and polygon-Prices in EUR and USD. 
 This is needed for calculation of profit and/or loss of each collection to build a sum of the portfolio.
 Furthermore it is possible to set some price-targets (e.g. Take Profit or Stop-Loss) if the option is set the user will receive an notification via email to the set adress. Sender is the own email-address where the app is used.
 
